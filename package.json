@@ -1,0 +1,23 @@
+{
+  "name": "twitchchatbot",
+  "version": "1.0.0",
+  "description": "learning chat bot",
+  "main": "index.js",
+  "dependencies": {
+    "tmi.js": "^1.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "learningtwitchbot"
+  },
+  "keywords": [
+    "NLP",
+    "twitch"
+  ],
+  "author": "devnte",
+  "license": "ISC"
+}
